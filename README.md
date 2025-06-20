@@ -18,7 +18,7 @@
 #include <string.h> 
 #include <stdlib.h> 
 #define MAX_EXPRESSION_SIZE 100
-
+```
 int main() 
 {
     int i = 0, j = 0, x = 0, n, flag = 0; 
@@ -73,6 +73,7 @@ int main()
     }
     return 0;    
 }
+```
 # OUTPUT
 ![Screenshot 2025-04-11 162157](https://github.com/user-attachments/assets/813562cc-fda8-4334-b0cf-2ac9aea07587)
 ![Screenshot 2025-04-14 174435](https://github.com/user-attachments/assets/2d6f1636-b4e3-4337-939f-ee50c21d10fe)
